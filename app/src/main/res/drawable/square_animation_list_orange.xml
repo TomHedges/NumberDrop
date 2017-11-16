@@ -4,6 +4,6 @@
         android:drawable="@drawable/square_orange"
         android:duration="1000" />
     <item
-        android:drawable="@drawable/square_flash"
+        android:drawable="@drawable/square_flash_orange"
         android:duration="1000" />
 </animation-list>
